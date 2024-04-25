@@ -1,13 +1,4 @@
 
-//============================================================================
-//
-//  Name        : Ring.java
-//  Author      : Sachin Vijaykumar Kunte
-//  Copyright   : Copyright ©2019 by Sachin Kunte All rights reserved.
-//  Description : A Java program for a Ring algorithem  
-//  contact     : kuntesv@gmail.com
-//
-//============================================================================
 
 import java.util.Scanner;
 

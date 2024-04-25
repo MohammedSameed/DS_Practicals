@@ -1,13 +1,4 @@
 
-//============================================================================
-//
-//  Name        : ReverseServer.java
-//  Author      : Sachin Vijaykumar Kunte
-//  Copyright   : Copyright ©2019 by Sachin Kunte All rights reserved.
-//  Description : A Java program for a Server implementation 
-//  contact     : kuntesv@gmail.com
-//
-//============================================================================
 
 import ReverseModule.Reverse;
 import org.omg.CosNaming.*;
