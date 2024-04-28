@@ -1,13 +1,5 @@
 
-//============================================================================
-//
-//  Name        : AddClient.java
-//  Author      : Sachin Vijaykumar Kunte
-//  Copyright   : Copyright ©2019 by Sachin Kunte All rights reserved.
-//  Description : A Java program for a client connection with server 
-//  contact     : kuntesv@gmail.com
-//
-//============================================================================
+
 
 import java.rmi.*;
 public class AddClient {
